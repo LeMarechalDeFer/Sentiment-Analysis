@@ -88,7 +88,7 @@ See [environment.yml](./environment.yml)
 
 ---
 
-The full explanation, methodology, model comparison, and discussion of performance and limitations are available in [report.pdf](./report.pdf).
+The full explanation, methodology, model comparison, and discussion of performance and limitations are available in [report.pdf](./67540460063_RomainBLANCHOT_report.pdf).
 
 --- 
 
