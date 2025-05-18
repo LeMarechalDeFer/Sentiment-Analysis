@@ -26,13 +26,7 @@ conda env create -f environment.yml
 conda activate sentiment-bow
 ```
 
-3. Run the notebook:
-
-```bash
-jupyter notebook sentiment_analysis.ipynb
-```
-
----
+3. Run the notebook
 
 ## 📂 Dataset
 
