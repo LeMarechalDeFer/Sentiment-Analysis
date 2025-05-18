@@ -57,7 +57,7 @@ jupyter notebook sentiment_analysis.ipynb
    - Limit dictionary to top 3000 tokens (`max_features=3000`)
 
 3. **Vectorization**
-   - `CountVectorizer` used to convert text into sparse matrix (BoW)
+   - `CountVectorizer` used to convert text into sparse matrix (BoW) (alternatively, `TfidfVectorizer` can be used or https://fasttext.cc/ for embeddings) 
    - Output matrix shape: `(10000, 3000)`
 
 4. **Train/Test Split**
