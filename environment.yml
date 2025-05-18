@@ -1,0 +1,12 @@
+name: sentiment-bow
+channels:
+  - defaults
+  - conda-forge
+dependancies:
+  - python=3.12
+  - scikit-learn
+  - pandas
+  - numpy
+  - nltk
+  - jupyter
+  - bz2file 
